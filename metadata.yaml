@@ -1,5 +1,8 @@
 _repo: Vocabulum-or-The-Rogue-s-Lexicon-Compiled-from-the-Most-Authentic-Sources_52320
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52320-h/images/cover.jpg
 creator:
   author:
     agent_name: Matsell, George W. (George Washington)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46789'
     url: http://www.gutenberg.org/2009/agents/46789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52320#Vocabulum-or-The-Rogue-s-Lexicon-Compiled-from-the-Most-Authentic-Sources
 gutenberg_issued: '2016-06-13'
 gutenberg_type: Text
 identifiers:
