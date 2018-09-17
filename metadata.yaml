@@ -1,0 +1,30 @@
+_repo: Vocabulum-or-The-Rogue-s-Lexicon-Compiled-from-the-Most-Authentic-Sources_52320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Matsell, George W. (George Washington)
+    birthdate: 1811
+    deathdate: 1877
+    gutenberg_agent_id: '46789'
+    url: http://www.gutenberg.org/2009/agents/46789
+description: ''
+gutenberg_issued: '2016-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52320'
+  lccn: '21018137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Languages -- Dictionaries'
+- !lcc 'PE'
+- !lcsh 'English language -- New York (State) -- New York -- Slang -- Dictionaries'
+- !lcsh 'Cant -- New York (State) -- New York -- Dictionaries'
+- !lcsh 'Rogues and vagabonds -- New York (State) -- New York -- Language -- Dictionaries'
+- !lcsh 'Cant -- Dictionaries'
+- !lcsh 'Americanisms -- New York (State) -- New York -- Dictionaries'
+- GITenberg
+title: "Vocabulum; or The Rogue's Lexicon\r\nCompiled from the Most Authentic Sources"
+url: http://www.gutenberg.org/ebooks/52320
